@@ -1,0 +1,76 @@
+<div class="row">
+  <div class="col-lg-12" [formGroup]="enderecoForm" >
+
+    <div class="position-relative form-group">
+      <label>CEP</label>
+      <input type="text" id="cep" formControlName="cep" name="cep" mask="00000-000" class="form-control" />
+    </div>
+
+  </div>
+
+  <div class="col-lg-2">
+    <button type="button" class="btn btn-primary" (click)="consultaWS()">Consulta WS</button>
+  </div>
+
+  <div class="col-lg-2">
+    <button type="button" class="btn btn-primary" (click)="consultaDB()">Consulta DB</button>
+  </div>
+
+  <div class="col-lg-2">
+    <button type="button" class="btn btn-primary" (click)="postDB()" [disabled]="!enderecoModel">Inserção DB</button>
+  </div>
+</div>
+
+<div class="row" *ngIf="enderecoModel">
+  <table class="table table-condensed table-striped no-margin">
+    <thead>
+      <tr>
+        <th>
+          CEP
+        </th>
+        <th>
+          Logradouro
+        </th>
+        <th>
+          Complemento
+        </th>
+        <th>
+          Bairro
+        </th>
+        <th>
+          Localidade
+        </th>
+        <th>
+          UF
+        </th>
+        <th>
+          IBGE
+        </th>
+        <th>
+          GIA
+        </th>
+        <th>
+          DDD
+        </th>
+        <th>
+          SIAFI
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{enderecoModel.cep}}</td>
+        <td>{{enderecoModel.logradouro}}</td>
+        <td>{{enderecoModel.complemento}}</td>
+        <td>{{enderecoModel.bairro}}</td>
+        <td>{{enderecoModel.localidade}}</td>
+        <td>{{enderecoModel.uf}}</td>
+        <td>{{enderecoModel.ibge}}</td>
+        <td>{{enderecoModel.gia}}</td>
+        <td>{{enderecoModel.ddd}}</td>
+        <td>{{enderecoModel.siafi}}</td>
+      </tr>
+    </tbody>
+
+  </table>
+</div>

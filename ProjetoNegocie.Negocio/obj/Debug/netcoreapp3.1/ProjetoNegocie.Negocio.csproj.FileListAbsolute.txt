@@ -1,0 +1,9 @@
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.Negocio\bin\Debug\netcoreapp3.1\ProjetoNegocie.Negocio.deps.json
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.Negocio\bin\Debug\netcoreapp3.1\ProjetoNegocie.Negocio.dll
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.Negocio\bin\Debug\netcoreapp3.1\ProjetoNegocie.Negocio.pdb
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.Negocio\obj\Debug\netcoreapp3.1\ProjetoNegocie.Negocio.csprojAssemblyReference.cache
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.Negocio\obj\Debug\netcoreapp3.1\ProjetoNegocie.Negocio.AssemblyInfoInputs.cache
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.Negocio\obj\Debug\netcoreapp3.1\ProjetoNegocie.Negocio.AssemblyInfo.cs
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.Negocio\obj\Debug\netcoreapp3.1\ProjetoNegocie.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.Negocio\obj\Debug\netcoreapp3.1\ProjetoNegocie.Negocio.dll
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.Negocio\obj\Debug\netcoreapp3.1\ProjetoNegocie.Negocio.pdb

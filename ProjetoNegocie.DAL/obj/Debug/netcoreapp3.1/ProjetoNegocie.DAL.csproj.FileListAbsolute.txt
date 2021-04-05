@@ -1,0 +1,17 @@
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\bin\Debug\netcoreapp3.1\ProjetoNegocie.DAL.deps.json
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\bin\Debug\netcoreapp3.1\ProjetoNegocie.DAL.dll
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\bin\Debug\netcoreapp3.1\ProjetoNegocie.DAL.pdb
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\obj\Debug\netcoreapp3.1\ProjetoNegocie.DAL.csprojAssemblyReference.cache
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\obj\Debug\netcoreapp3.1\ProjetoNegocie.DAL.AssemblyInfoInputs.cache
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\obj\Debug\netcoreapp3.1\ProjetoNegocie.DAL.AssemblyInfo.cs
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\obj\Debug\netcoreapp3.1\ProjetoNegocie.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\obj\Debug\netcoreapp3.1\ProjetoNegocie.DAL.dll
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\obj\Debug\netcoreapp3.1\ProjetoNegocie.DAL.pdb
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\bin\Debug\netcoreapp3.1\ProjetoNegocie.Negocio.dll
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\bin\Debug\netcoreapp3.1\ProjetoNegocie.Negocio.pdb
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\obj\Debug\netcoreapp3.1\ProjetoNegocie.DAL.csproj.CopyComplete
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\bin\Debug\netcoreapp3.1\ProjetoNegocie.DAL.runtimeconfig.json
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\bin\Debug\netcoreapp3.1\ProjetoNegocie.DAL.runtimeconfig.dev.json
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\obj\Debug\netcoreapp3.1\ProjetoNegocie.DAL.genruntimeconfig.cache
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\bin\Debug\netcoreapp3.1\ProjetoNegocie.Contratos.dll
+C:\Users\Tadachi\Documents\Visual Studio 2019\Projects\ProjetoNegocie\ProjetoNegocie.DAL\bin\Debug\netcoreapp3.1\ProjetoNegocie.Contratos.pdb
